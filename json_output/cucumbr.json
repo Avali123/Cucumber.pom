@@ -1,0 +1,94 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 2,
+        "name": "Adaction application BDD farmewrok",
+        "description": "",
+        "id": "adactin-application;adaction-application-bdd-farmewrok",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 12539911900,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user goes to app and launch browser",
+            "match": {
+              "location": "Adactin_StepDefinition.user_goes_to_app_and_launch_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1878924800,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user enter details and check for title",
+            "match": {
+              "location": "Adactin_StepDefinition.user_enter_details_and_check_for_title()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 8470200,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user goes to home page and check tittle",
+            "match": {
+              "location": "Adactin_StepDefinition.user_goes_to_home_page_and_check_tittle()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 488222700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user search for hotel",
+            "match": {
+              "location": "Adactin_StepDefinition.user_search_for_hotel()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 314651600,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user check the hotel and image",
+            "match": {
+              "location": "Adactin_StepDefinition.user_check_the_hotel_and_image()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 819397200,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user log out of application",
+            "match": {
+              "location": "Adactin_StepDefinition.user_log_out_of_application()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Adactin application",
+    "description": "",
+    "id": "adactin-application",
+    "keyword": "Feature",
+    "uri": "C:/Users/jithe/Desktop/avali/Demooooo/POM_BDD_frame/src/main/java/Feature/login.feature"
+  }
+]

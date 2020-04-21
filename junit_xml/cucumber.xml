@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="16.049578">
+<testcase classname="Adactin application" name="Adaction application BDD farmewrok" time="16.049578">
+<system-out><![CDATA[Given user goes to app and launch browser...................................passed
+When user enter details and check for title.................................passed
+Then user goes to home page and check tittle................................passed
+Then user search for hotel..................................................passed
+Then user check the hotel and image.........................................passed
+Then user log out of application............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
